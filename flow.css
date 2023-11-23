@@ -4,8 +4,15 @@
     scroll-behavior: smooth;
 }
 
+
 a {
     text-decoration: none;
     font-weight: bold;
     color: blueviolet;
+}
+
+section {
+    background-color: bisque;
+    padding: 3%;
+    font-family: serif;
 }
