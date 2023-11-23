@@ -3,3 +3,14 @@
     padding: 0;
     scroll-behavior: smooth;
 }
+p{
+    padding: 3%;
+    background-color: blue;
+
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    text-decoration: underline
+
+}
